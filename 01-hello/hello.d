@@ -1,4 +1,4 @@
-#!/usr/bin/rdmd
+#!#!/usr/bin/env rdmd
 import std.stdio;
 
 void main() {
